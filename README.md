@@ -1,4 +1,4 @@
-# mp41to51
+# Actualizacion de firmware mac pro 4.1 a 5.1
 
 # !!! Importante: ¡Úselo bajo su propio riesgo!
 
